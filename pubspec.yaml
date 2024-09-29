@@ -1,0 +1,13 @@
+name: tiny_frame
+description: TinyFrame port
+version: 1.0.0
+repository: https://github.com/marcel-cd/tiny_frame
+
+environment:
+  sdk: ^3.5.3
+
+dev_dependencies:
+  dart_flutter_team_lints: ^3.2.0
+  test: ^1.24.0
+dependencies:
+  crclib: ^3.0.0
