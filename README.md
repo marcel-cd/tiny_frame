@@ -8,7 +8,6 @@ TinyFrame is a simple library for building and parsing data frames to be sent ov
 
 ## Usage
 
-### Master
 ```dart
 import 'dart:typed_data';
 import 'package:tiny_frame/tiny_frame.dart';
@@ -31,7 +30,6 @@ void main() {
 }
 ```
 
-### Slave
 
 ## TinyFrame
 ```sh
