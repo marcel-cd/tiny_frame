@@ -1,6 +1,6 @@
 Port of the TinyFrame C library from https://github.com/MightyPork/TinyFrame
 
-Used an automated code conversion tool from to port https://github.com/MightyPork/PonyFrame from python to dart with some minor modifications
+Used an automated code conversion tool from to port https://github.com/MightyPork/PonyFrame from python to dart with some minor modifications.
 
 ## Features
 
